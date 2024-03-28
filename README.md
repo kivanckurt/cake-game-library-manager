@@ -1,4 +1,4 @@
-<img width="948" alt="CakeLibrary_UML-Diagram" src="https://github.com/kivanckurt/cake-game-library-manager/assets/115595357/3f8a7a21-e507-4a5d-be6d-72c4980f2751"># CAKE Game Library Manager
+# CAKE Game Library Manager
 Simulation of a game library manager using Java's window builder plugin.
 
 In the application, the User is allowed to purchase, install, uninstall, and play the game.
